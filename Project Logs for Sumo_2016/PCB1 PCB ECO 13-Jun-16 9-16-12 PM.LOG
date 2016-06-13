@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=5V Pin=S2-w
+Removed Pin From Net: NetName=5V Pin=S2-x
+Removed Pin From Net: NetName=IC_MOTOR_BEGIN_COUNTDOWN Pin=S2-y
+Removed Pin From Net: NetName=IC_MOTOR_BEGIN_COUNTDOWN Pin=S2-z
+Removed Pin From Net: NetName=RELAY_EN Pin=V4-x
+Change Component DesignItemId : Designator=S3 Old DesignItemId=3408 New DesignItemId=9813
+Change Component DesignItemId : Designator=S2 Old DesignItemId=3408 New DesignItemId=9814
+Change Component Footprint: Designator=S2 Old Footprint=SWITCH-OMRON-B3F New Footprint=2_Wire_20AWG
+Change Component Footprint: Designator=S3 Old Footprint=SWITCH-OMRON-B3F New Footprint=2_Wire_20AWG
+Change Component Comment : Designator=S3 Old Comment=SWITCH PUSH SPST-NO 6x6mm RoHS New Comment=Switch NC
+Change Component Comment : Designator=S2 Old Comment=SWITCH PUSH SPST-NO 6x6mm RoHS New Comment=Switch NO
+Added Component: Designator=S1(2_Wire_12AWG)
+Added Component: Designator=S4(2_Wire_20AWG)
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=18V_SW Pin=S1-2
+Added Pin To Net: NetName=5V Pin=S2-1
+Added Pin To Net: NetName=IC_MOTOR_BEGIN_COUNTDOWN Pin=S2-2
+Added Pin To Net: NetName=RELAY_EN Pin=S4-2
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=NetS3_1 Pin=V4-x
+Added Net: Name=NetS3_1
+Added Pin To Net: NetName=NetS3_2 Pin=S3-2
+Added Pin To Net: NetName=NetS3_2 Pin=S4-1
+Added Net: Name=NetS3_2
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SWITCH Rocker SPST Panel Mount, Red
+Added Member To Class: ClassName=Sheet1 Member=Component S4 Switch NC
+Added Member To Class: ClassName=Sheet1 Member=Component X1 MH3
+Added Room: Name=Sheet1
