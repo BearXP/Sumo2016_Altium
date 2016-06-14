@@ -1,4 +1,0 @@
-Added Component: Designator=R5(2_Wire_20AWG)
-Added Pin To Net: NetName=IC_MOTOR_BEGIN_COUNTDOWN Pin=R5-1
-Added Pin To Net: NetName=IC_MOTOR_EN Pin=R5-2
-Added Member To Class: ClassName=Sheet1 Member=Component R5 0R0
