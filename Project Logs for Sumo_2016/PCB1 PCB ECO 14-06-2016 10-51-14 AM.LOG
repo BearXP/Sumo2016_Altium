@@ -1,0 +1,4 @@
+Change Component Kind : Designator=X10 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=X11(HDR-4.2-1x2-MINIFIT)
+Added Pin To Net: NetName=GND Pin=X11-2
+Added Member To Class: ClassName=Sheet1 Member=Component X11 Molex Minifit

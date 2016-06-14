@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=X11 Old DesignItemId=5888 New DesignItemId=4053
+Change Component Footprint: Designator=X11 Old Footprint=HDR-4.2-1x2-MINIFIT New Footprint=HDR-JST-B-2B-EH-A
+Change Component Comment : Designator=X11 Old Comment=Molex Minifit New Comment=JST EH
+Change Component Kind : Designator=X11 Old Kind=Standard (No BOM) New Kind=Standard
