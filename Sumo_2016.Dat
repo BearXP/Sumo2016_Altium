@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Manufacturer~String~Manufacturer~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Sumo_2016.PrjPcb|ReportField=ProjectFullPath~C:\Users\zmze\Desktop\2016Sumo\Sumo2016_Altium\Sumo_2016.PrjPcb|ReportField=Title~Bill of Materials For Project [Sumo_2016.PrjPcb] (PCB Document : PCB1.PcbDoc)|ReportField=TotalQuantity~25|ReportField=ReportTime~1:14:38 PM|ReportField=ReportDate~11/07/2016|ReportField=ReportDateTime~11/07/2016 1:14:38 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Sumo_2016.PrjPcb|ReportField=DataSourceFullPath~C:\Users\zmze\Desktop\2016Sumo\Sumo2016_Altium\Sumo_2016.PrjPcb|ReportField=PCBDataSourceFileName~PCB1.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\zmze\Desktop\2016Sumo\Sumo2016_Altium\PCB\PCB1.PcbDoc
+RELAY SAFETY 4PST 8A 18V|Safety Relay 4PST, 3NO 1 NC|A1|RELAY-BRUMFIELD-4PST-3NO-1NC|9827|TE Connectivity Potter & Brumfield Relays|SR4M4018|1
+470R|Resistor|R1|1206|3835|Phycomp|RC1206FR-07470RL|1
+10K|Resistor|R2, R4|1206|3867|Phycomp|RC1206FR-0710KL|2
+1K0|Resistor|R3|1206|3843|Phycomp|RC1206FR-071KL|1
+220R|Resistor|R10, R11|1206|3827|Phycomp|RC1206FR-07220RL|2
+4K3|Resistor|R20, R21|0603|3520|Phycomp|RC0603FR-074K3L|2
+SWITCH Rocker SPST Panel Mount, Red|SWITCH|S1|2_Wire_12AWG|9815|Cherry|CRE22F2BBRLE|1
+Switch NO|SWITCH|S2|2_Wire_12AWG|9814|TE Connectivity|1437568-6|1
+Switch NC|SWITCH|S3, S4|2_Wire_20AWG|9813|TE Connectivity|MSPS103B|2
+FDV304P|MOSFET P CHANNEL GENERIC SOT23|V1, V2, V3, V4|SOT23|5221|Fairchild|FDV304P|4
+STWD100NYWY3F|IC Watchdog Timer Circuit|V5|SOT23-5|5674|ST Microelectronics|STWD100NYWY3F|1
+BC846B|NPN Transistor SOT23|V6|SOT23|3412|NXP|BC846B|1
+Red, 2.0V|LED|V10|LED-0805|2785|Kingbright|KP-2012EC|1
+Green, 2.1V|LED|V11|LED-0805|6313|Chicago Miniature Lighting|CMD17-21UGC/TR8|1
+LDR 14k@24LUX, 670k@dark|LDR|V20, V22|LDR_NSL-5112|9828|Luna Optoelectronics|NSL-5112|2
+10V 225mW|DIODE ZENER SOT23 a-z k-x nc-y|V21, V23|SOT23|6327|ON Semi|BZX84C10LT1G|2
