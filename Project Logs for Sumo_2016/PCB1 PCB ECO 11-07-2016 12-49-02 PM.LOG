@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=S2 Old Footprint=2_Wire_20AWG New Footprint=2_Wire_12AWG
+Added Component: Designator=X99(2_Wire_12AWG)
+Added Pin To Net: NetName=18V0 Pin=X99-1
+Added Pin To Net: NetName=GND Pin=X99-2
+Added Member To Class: ClassName=Sheet1 Member=Component X99 CONN2_12AWG_Hole

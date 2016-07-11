@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=X10 Old DesignItemId=5888 New DesignItemId=-
+Change Component Comment : Designator=X10 Old Comment=Molex Minifit New Comment=CONN2_12AWG_Hole
+Change Component Description : Designator=X10 Old Description=Connector 2 pin general New Description=CONN2_12AWG_Hole
+Change Component Library : Designator=X10 Old Library=SVN_BOMGEN_Database_2014.DbLib New Library=Sumo_2016.IntLib
+Added Room: Name=Sheet1
